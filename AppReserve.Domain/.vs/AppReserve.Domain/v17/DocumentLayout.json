@@ -1,0 +1,397 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Domain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D258E29E-4EF5-4E6D-8540-6771A367B175}|..\\AppReserve.Infrastructure.API\\AppReserve.Infrastructure.API.csproj|c:\\users\\usuario\\source\\repos\\appreserve.infrastructure.api\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096B5D9E-6456-4F3C-902F-6A60A1EECB66}|..\\AppReserve.Application\\AppReserve.Application.csproj|c:\\users\\usuario\\source\\repos\\appreserve.application\\dtos\\createreservationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096B5D9E-6456-4F3C-902F-6A60A1EECB66}|..\\AppReserve.Application\\AppReserve.Application.csproj|c:\\users\\usuario\\source\\repos\\appreserve.application\\dtos\\getreservationsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096B5D9E-6456-4F3C-902F-6A60A1EECB66}|..\\AppReserve.Application\\AppReserve.Application.csproj|c:\\users\\usuario\\source\\repos\\appreserve.application\\dtos\\reservationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096B5D9E-6456-4F3C-902F-6A60A1EECB66}|..\\AppReserve.Application\\AppReserve.Application.csproj|c:\\users\\usuario\\source\\repos\\appreserve.application\\eventhandlers\\reservationnotificationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096B5D9E-6456-4F3C-902F-6A60A1EECB66}|..\\AppReserve.Application\\AppReserve.Application.csproj|c:\\users\\usuario\\source\\repos\\appreserve.application\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81CB587A-8B28-4F7A-8A13-5F71AE49C1C9}|AppReserve.Domain.csproj|c:\\users\\usuario\\source\\repos\\appreserve.domain\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81CB587A-8B28-4F7A-8A13-5F71AE49C1C9}|AppReserve.Domain.csproj|solutionrelative:entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81CB587A-8B28-4F7A-8A13-5F71AE49C1C9}|AppReserve.Domain.csproj|c:\\users\\usuario\\source\\repos\\appreserve.domain\\entities\\space.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81CB587A-8B28-4F7A-8A13-5F71AE49C1C9}|AppReserve.Domain.csproj|solutionrelative:entities\\space.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81CB587A-8B28-4F7A-8A13-5F71AE49C1C9}|AppReserve.Domain.csproj|c:\\users\\usuario\\source\\repos\\appreserve.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81CB587A-8B28-4F7A-8A13-5F71AE49C1C9}|AppReserve.Domain.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81CB587A-8B28-4F7A-8A13-5F71AE49C1C9}|AppReserve.Domain.csproj|c:\\users\\usuario\\source\\repos\\appreserve.domain\\interfaces\\events\\handlers\\ieventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81CB587A-8B28-4F7A-8A13-5F71AE49C1C9}|AppReserve.Domain.csproj|solutionrelative:interfaces\\events\\handlers\\ieventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81CB587A-8B28-4F7A-8A13-5F71AE49C1C9}|AppReserve.Domain.csproj|c:\\users\\usuario\\source\\repos\\appreserve.domain\\interfaces\\events\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81CB587A-8B28-4F7A-8A13-5F71AE49C1C9}|AppReserve.Domain.csproj|solutionrelative:interfaces\\events\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81CB587A-8B28-4F7A-8A13-5F71AE49C1C9}|AppReserve.Domain.csproj|c:\\users\\usuario\\source\\repos\\appreserve.domain\\interfaces\\events\\idomaineventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81CB587A-8B28-4F7A-8A13-5F71AE49C1C9}|AppReserve.Domain.csproj|solutionrelative:interfaces\\events\\idomaineventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81CB587A-8B28-4F7A-8A13-5F71AE49C1C9}|AppReserve.Domain.csproj|c:\\users\\usuario\\source\\repos\\appreserve.domain\\interfaces\\repositories\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81CB587A-8B28-4F7A-8A13-5F71AE49C1C9}|AppReserve.Domain.csproj|solutionrelative:interfaces\\repositories\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81CB587A-8B28-4F7A-8A13-5F71AE49C1C9}|AppReserve.Domain.csproj|c:\\users\\usuario\\source\\repos\\appreserve.domain\\interfaces\\repositories\\ispacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81CB587A-8B28-4F7A-8A13-5F71AE49C1C9}|AppReserve.Domain.csproj|solutionrelative:interfaces\\repositories\\ispacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81CB587A-8B28-4F7A-8A13-5F71AE49C1C9}|AppReserve.Domain.csproj|c:\\users\\usuario\\source\\repos\\appreserve.domain\\interfaces\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81CB587A-8B28-4F7A-8A13-5F71AE49C1C9}|AppReserve.Domain.csproj|solutionrelative:interfaces\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EC3384-4C02-48DC-8A45-98502AF740BF}|..\\AppReserve.Infrastructure\\AppReserve.Infrastructure.Persistence.csproj|c:\\users\\usuario\\source\\repos\\appreserve.infrastructure\\configs\\spaceconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EC3384-4C02-48DC-8A45-98502AF740BF}|..\\AppReserve.Infrastructure\\AppReserve.Infrastructure.Persistence.csproj|c:\\users\\usuario\\source\\repos\\appreserve.infrastructure\\configs\\userconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EC3384-4C02-48DC-8A45-98502AF740BF}|..\\AppReserve.Infrastructure\\AppReserve.Infrastructure.Persistence.csproj|c:\\users\\usuario\\source\\repos\\appreserve.infrastructure\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EC3384-4C02-48DC-8A45-98502AF740BF}|..\\AppReserve.Infrastructure\\AppReserve.Infrastructure.Persistence.csproj|c:\\users\\usuario\\source\\repos\\appreserve.infrastructure\\events\\domaineventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EC3384-4C02-48DC-8A45-98502AF740BF}|..\\AppReserve.Infrastructure\\AppReserve.Infrastructure.Persistence.csproj|c:\\users\\usuario\\source\\repos\\appreserve.infrastructure\\repositories\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EC3384-4C02-48DC-8A45-98502AF740BF}|..\\AppReserve.Infrastructure\\AppReserve.Infrastructure.Persistence.csproj|c:\\users\\usuario\\source\\repos\\appreserve.infrastructure\\repositories\\spacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EC3384-4C02-48DC-8A45-98502AF740BF}|..\\AppReserve.Infrastructure\\AppReserve.Infrastructure.Persistence.csproj|c:\\users\\usuario\\source\\repos\\appreserve.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D258E29E-4EF5-4E6D-8540-6771A367B175}|..\\AppReserve.Infrastructure.API\\AppReserve.Infrastructure.API.csproj|c:\\users\\usuario\\source\\repos\\appreserve.infrastructure.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 132,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateReservationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Application\\DTOs\\CreateReservationRequest.cs",
+              "RelativeDocumentMoniker": "..\\AppReserve.Application\\DTOs\\CreateReservationRequest.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Application\\DTOs\\CreateReservationRequest.cs",
+              "RelativeToolTip": "..\\AppReserve.Application\\DTOs\\CreateReservationRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T08:11:23.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetReservationsResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Application\\DTOs\\GetReservationsResponse.cs",
+              "RelativeDocumentMoniker": "..\\AppReserve.Application\\DTOs\\GetReservationsResponse.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Application\\DTOs\\GetReservationsResponse.cs",
+              "RelativeToolTip": "..\\AppReserve.Application\\DTOs\\GetReservationsResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T08:11:23.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReservationResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Application\\DTOs\\ReservationResponse.cs",
+              "RelativeDocumentMoniker": "..\\AppReserve.Application\\DTOs\\ReservationResponse.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Application\\DTOs\\ReservationResponse.cs",
+              "RelativeToolTip": "..\\AppReserve.Application\\DTOs\\ReservationResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T08:11:22.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReservationsController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Infrastructure.API\\Controllers\\ReservationsController.cs",
+              "RelativeDocumentMoniker": "..\\AppReserve.Infrastructure.API\\Controllers\\ReservationsController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Infrastructure.API\\Controllers\\ReservationsController.cs*",
+              "RelativeToolTip": "..\\AppReserve.Infrastructure.API\\Controllers\\ReservationsController.cs*",
+              "ViewState": "AQIAACoAAAAAAAAAAAAswCoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T08:10:01.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReservationNotificationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Application\\EventHandlers\\ReservationNotificationHandler.cs",
+              "RelativeDocumentMoniker": "..\\AppReserve.Application\\EventHandlers\\ReservationNotificationHandler.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Application\\EventHandlers\\ReservationNotificationHandler.cs",
+              "RelativeToolTip": "..\\AppReserve.Application\\EventHandlers\\ReservationNotificationHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T08:11:19.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReservationService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Application\\Services\\ReservationService.cs",
+              "RelativeDocumentMoniker": "..\\AppReserve.Application\\Services\\ReservationService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Application\\Services\\ReservationService.cs",
+              "RelativeToolTip": "..\\AppReserve.Application\\Services\\ReservationService.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAA9wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T08:11:15.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Domain\\Entities\\Reservation.cs",
+              "RelativeDocumentMoniker": "Entities\\Reservation.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Domain\\Entities\\Reservation.cs",
+              "RelativeToolTip": "Entities\\Reservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T08:11:14.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Space.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Domain\\Entities\\Space.cs",
+              "RelativeDocumentMoniker": "Entities\\Space.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Domain\\Entities\\Space.cs",
+              "RelativeToolTip": "Entities\\Space.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T08:11:13.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T08:11:12.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Domain\\Interfaces\\Events\\Handlers\\IEventHandler.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Events\\Handlers\\IEventHandler.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Domain\\Interfaces\\Events\\Handlers\\IEventHandler.cs",
+              "RelativeToolTip": "Interfaces\\Events\\Handlers\\IEventHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T08:11:10.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDomainEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Domain\\Interfaces\\Events\\IDomainEvent.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Events\\IDomainEvent.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Domain\\Interfaces\\Events\\IDomainEvent.cs",
+              "RelativeToolTip": "Interfaces\\Events\\IDomainEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T08:11:08.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IDomainEventPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Domain\\Interfaces\\Events\\IDomainEventPublisher.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Events\\IDomainEventPublisher.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Domain\\Interfaces\\Events\\IDomainEventPublisher.cs",
+              "RelativeToolTip": "Interfaces\\Events\\IDomainEventPublisher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T08:11:05.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IReservationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Domain\\Interfaces\\Repositories\\IReservationRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Repositories\\IReservationRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Domain\\Interfaces\\Repositories\\IReservationRepository.cs",
+              "RelativeToolTip": "Interfaces\\Repositories\\IReservationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T08:11:01.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ISpaceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Domain\\Interfaces\\Repositories\\ISpaceRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Repositories\\ISpaceRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Domain\\Interfaces\\Repositories\\ISpaceRepository.cs",
+              "RelativeToolTip": "Interfaces\\Repositories\\ISpaceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T08:11:00.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Domain\\Interfaces\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Domain\\Interfaces\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Interfaces\\Repositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T08:10:59.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SpaceConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Infrastructure\\Configs\\SpaceConfig.cs",
+              "RelativeDocumentMoniker": "..\\AppReserve.Infrastructure\\Configs\\SpaceConfig.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Infrastructure\\Configs\\SpaceConfig.cs",
+              "RelativeToolTip": "..\\AppReserve.Infrastructure\\Configs\\SpaceConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T08:09:57.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Infrastructure\\Configs\\UserConfig.cs",
+              "RelativeDocumentMoniker": "..\\AppReserve.Infrastructure\\Configs\\UserConfig.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Infrastructure\\Configs\\UserConfig.cs",
+              "RelativeToolTip": "..\\AppReserve.Infrastructure\\Configs\\UserConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T08:09:56.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Infrastructure\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\AppReserve.Infrastructure\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Infrastructure\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "..\\AppReserve.Infrastructure\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T08:09:51.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReservationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Infrastructure\\Repositories\\ReservationRepository.cs",
+              "RelativeDocumentMoniker": "..\\AppReserve.Infrastructure\\Repositories\\ReservationRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Infrastructure\\Repositories\\ReservationRepository.cs",
+              "RelativeToolTip": "..\\AppReserve.Infrastructure\\Repositories\\ReservationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T08:09:41.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SpaceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Infrastructure\\Repositories\\SpaceRepository.cs",
+              "RelativeDocumentMoniker": "..\\AppReserve.Infrastructure\\Repositories\\SpaceRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Infrastructure\\Repositories\\SpaceRepository.cs",
+              "RelativeToolTip": "..\\AppReserve.Infrastructure\\Repositories\\SpaceRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T08:09:38.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\AppReserve.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "..\\AppReserve.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T08:09:36.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DomainEventPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Infrastructure\\Events\\DomainEventPublisher.cs",
+              "RelativeDocumentMoniker": "..\\AppReserve.Infrastructure\\Events\\DomainEventPublisher.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Infrastructure\\Events\\DomainEventPublisher.cs",
+              "RelativeToolTip": "..\\AppReserve.Infrastructure\\Events\\DomainEventPublisher.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T08:09:07.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Infrastructure.API\\Program.cs",
+              "RelativeDocumentMoniker": "..\\AppReserve.Infrastructure.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\AppReserve.Infrastructure.API\\Program.cs",
+              "RelativeToolTip": "..\\AppReserve.Infrastructure.API\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T04:10:50.241Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

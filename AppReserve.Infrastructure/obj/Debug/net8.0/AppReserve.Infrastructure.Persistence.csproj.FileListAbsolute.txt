@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\AppReserve.Infrastructure\bin\Debug\net8.0\AppReserve.Infrastructure.Persistence.deps.json
+C:\Users\Usuario\source\repos\AppReserve.Infrastructure\bin\Debug\net8.0\AppReserve.Infrastructure.Persistence.dll
+C:\Users\Usuario\source\repos\AppReserve.Infrastructure\bin\Debug\net8.0\AppReserve.Infrastructure.Persistence.pdb
+C:\Users\Usuario\source\repos\AppReserve.Infrastructure\bin\Debug\net8.0\AppReserve.Domain.dll
+C:\Users\Usuario\source\repos\AppReserve.Infrastructure\bin\Debug\net8.0\AppReserve.Domain.pdb
+C:\Users\Usuario\source\repos\AppReserve.Infrastructure\obj\Debug\net8.0\AppReserve.Infrastructure.Persistence.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\AppReserve.Infrastructure\obj\Debug\net8.0\AppReserve.Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\AppReserve.Infrastructure\obj\Debug\net8.0\AppReserve.Infrastructure.Persistence.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\AppReserve.Infrastructure\obj\Debug\net8.0\AppReserve.Infrastructure.Persistence.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\AppReserve.Infrastructure\obj\Debug\net8.0\AppReserve.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\AppReserve.Infrastructure\obj\Debug\net8.0\AppReser.2711A26A.Up2Date
+C:\Users\Usuario\source\repos\AppReserve.Infrastructure\obj\Debug\net8.0\AppReserve.Infrastructure.Persistence.dll
+C:\Users\Usuario\source\repos\AppReserve.Infrastructure\obj\Debug\net8.0\refint\AppReserve.Infrastructure.Persistence.dll
+C:\Users\Usuario\source\repos\AppReserve.Infrastructure\obj\Debug\net8.0\AppReserve.Infrastructure.Persistence.pdb
+C:\Users\Usuario\source\repos\AppReserve.Infrastructure\obj\Debug\net8.0\ref\AppReserve.Infrastructure.Persistence.dll

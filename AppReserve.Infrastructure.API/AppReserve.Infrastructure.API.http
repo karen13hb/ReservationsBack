@@ -1,0 +1,6 @@
+@AppReserve.Infrastructure.API_HostAddress = http://localhost:5039
+
+GET {{AppReserve.Infrastructure.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

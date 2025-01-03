@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\AppReserve.Domain\bin\Debug\net8.0\AppReserve.Domain.deps.json
+C:\Users\Usuario\source\repos\AppReserve.Domain\bin\Debug\net8.0\AppReserve.Domain.dll
+C:\Users\Usuario\source\repos\AppReserve.Domain\bin\Debug\net8.0\AppReserve.Domain.pdb
+C:\Users\Usuario\source\repos\AppReserve.Domain\obj\Debug\net8.0\AppReserve.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\AppReserve.Domain\obj\Debug\net8.0\AppReserve.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\AppReserve.Domain\obj\Debug\net8.0\AppReserve.Domain.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\AppReserve.Domain\obj\Debug\net8.0\AppReserve.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\AppReserve.Domain\obj\Debug\net8.0\AppReserve.Domain.dll
+C:\Users\Usuario\source\repos\AppReserve.Domain\obj\Debug\net8.0\refint\AppReserve.Domain.dll
+C:\Users\Usuario\source\repos\AppReserve.Domain\obj\Debug\net8.0\AppReserve.Domain.pdb
+C:\Users\Usuario\source\repos\AppReserve.Domain\obj\Debug\net8.0\ref\AppReserve.Domain.dll
+C:\Users\Usuario\source\repos\AppReserve.Domain\obj\Debug\net8.0\AppReserve.Domain.csproj.AssemblyReference.cache
